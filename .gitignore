@@ -2,3 +2,5 @@
 *.php~
 *.html~
 *.txt~
+*.sql~
+*.css~
